@@ -130,3 +130,10 @@ main section{
 .skill-description{
     color: #757575;
 }
+
+/* resume part */
+.resume-column-tittle{
+    color: #474747;
+    font-size: 30px;
+    font-weight: 700;
+}
